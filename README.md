@@ -54,4 +54,4 @@ The dataset used in this project can be found on [Kaggle](https://www.kaggle.com
 
 ```bash
 git clone https://github.com/yourusername/pandas-practice-netflix.git
-cd pandas-practice-netflix
+ pandas-practice-netflix-dataset
