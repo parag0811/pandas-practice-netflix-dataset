@@ -8,12 +8,22 @@ The goal of this project was to practice **data manipulation, cleaning, and anal
 
 ## 📂 Project Structure
 
-project/
-│
-├─ notebook/ # Jupyter notebook(s) with analysis
-├─ data/ # CSV dataset
-│ └─ netflix_titles.csv
-├─ .gitignore # ignores venv and checkpoints
+notebook/
+  basics.ipynb
+  intermediate.ipynb
+  advance.ipynb
+
+data/
+  netflix_titles.csv
+
+venv/ (ignored in git)
+
+.gitignore
+
+requirements.txt
+
+README.md
+
 
 ## 📝 Notebook Highlights
 
