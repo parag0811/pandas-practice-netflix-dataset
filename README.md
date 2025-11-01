@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter notebook where I explored the **Netflix Movies & TV Shows dataset** using **Python and Pandas**.  
 
-The goal of this project was to practice **data manipulation, cleaning, and analysis** with real-world tabular data.
+The goal of this project was to practice **data manipulation, cleaning, analysis and plots** with real-world tabular data.
 
 ---
 
@@ -34,6 +34,8 @@ README.md
 - Counted movies/TV shows by type, year, and country  
 - Worked with string operations to analyze genres and directors  
 - Performed groupby and aggregation to summarize data
+- Created graphs
+- Plots based on filtered data
 
 ## 🚀 Skills Practiced
 
@@ -43,6 +45,8 @@ README.md
 - Grouping and aggregation (`groupby`, `value_counts`)  
 - Sorting and ranking  
 - Handling missing data
+- Practiced maplotlib and seaborn
+- Plotting graphs 
 
 ## 📈 Dataset
 
